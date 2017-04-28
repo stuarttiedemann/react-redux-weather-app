@@ -1,3 +1,4 @@
+// axios is used for http requests
 import axios from 'axios';
 
 const API_KEY = 'f41d10de3c0215d8df8b41a0b82a5f87';
